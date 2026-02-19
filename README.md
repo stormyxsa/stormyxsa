@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Nmesoma, a Penetration Tester based in Nigeria
+
+I have aspirations for Incidence Response
+
+I use Python to make tools that aid my workflow
+
+I'm also quite profiecient in Javascript and Machinelearning Modelling
+
+You can check out my pinned projects
+
+Facts about me
+-I'm plug and Play, a swiss army knife
+-Good at what i do
+

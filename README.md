@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm Nmesoma, a Penetration Tester based in Nigeria
 
+I have a CISCO Ethical Hacker certificate and badge you can check it out here -> https://www.credly.com/badges/7d73f8ba-11f6-4338-b377-bb055cff5ce0
+
 I have aspirations for Incidence Response
 
 I use Python to make tools that aid my workflow
@@ -23,6 +25,8 @@ I use Python to make tools that aid my workflow
 I'm also quite profiecient in Javascript and Machinelearning Modelling
 
 You can check out my pinned projects
+
+
 
 Facts about me
 -I'm plug and Play, a swiss army knife

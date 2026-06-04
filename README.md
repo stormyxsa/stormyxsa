@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nmesoma, a Penetration Tester based in Nigeria
+I'm Nmesoma, a Hacker. 
 
-I have a CISCO Ethical Hacker certificate and badge you can check it out here -> https://www.credly.com/badges/7d73f8ba-11f6-4338-b377-bb055cff5ce0
+ CISCO Ethical Hacker certificate and badge you can check it out here -> https://www.credly.com/badges/7d73f8ba-11f6-4338-b377-bb055cff5ce0
 
-I have aspirations for Incidence Response
+I have aspirations for Incident Response
 
 I use Python to make tools that aid my workflow
 
